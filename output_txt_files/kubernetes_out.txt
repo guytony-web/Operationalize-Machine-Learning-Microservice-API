@@ -1,0 +1,7 @@
+(.devops) ubuntu:~/environment/projectguy4 (main) $ ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "dev" already exists
+NAME   READY   STATUS    RESTARTS   AGE
+dev    1/1     Running   0          59m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
