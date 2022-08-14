@@ -1,6 +1,6 @@
 
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/guytony-web/projectguy4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/guytony-web/projectguy4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/guytony-web/Operationalize-Machine-Learning-Microservice-API/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/guytony-web/Operationalize-Machine-Learning-Microservice-API/tree/main)
 # Operationalize a Machine Learning Microservice API
 ## Project Overview
 
@@ -24,8 +24,8 @@ The project goal is to operationalize this working, machine learning microservic
 
 * Create a virtualenv with Python 3.7 and activate it(You should have Python 3.7 available in your host)
 
-python3 -m venv ~/.devops
-source ~/.devops/bin/activate
+ `python3 -m venv ~/.devops`  
+ `source ~/.devops/bin/activate`
 
 * Run `make install` to install the necessary dependencies
 
